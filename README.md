@@ -28,10 +28,7 @@ Mobile Responsive
 
 ### Backend (Java Spring Boot)
 
-1. **Clone the repository:**
- 
-git clone [https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs.git](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/edit/master/README.md)
- 
+
 
 2. **Navigate to the backend directory:**
  ```
